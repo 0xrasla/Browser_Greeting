@@ -1,3 +1,1 @@
-# Shooting-Mechanics Game Build Using Plain JS and Some Math
-
-### brr brr
+# A Simple Greeting Page for My Browser
